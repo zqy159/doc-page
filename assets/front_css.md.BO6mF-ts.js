@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s}from"./chunks/framework.As_dQCtW.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front/css.md","filePath":"front/css.md"}'),r={name:"front/css.md"};function a(o,c,n,f,p,_){return s(),e("div")}const m=t(r,[["render",a]]);export{i as __pageData,m as default};
