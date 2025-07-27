@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as h,ai as k}from"./chunks/framework.DTqeMNVv.js";const r=JSON.parse('{"title":"弹性盒模型应用","description":"","frontmatter":{},"headers":[],"relativePath":"case/case2.md","filePath":"case/case2.md"}'),n={name:"case/case2.md"};function l(t,s,p,E,e,d){return h(),a("div",null,s[0]||(s[0]=[k("",7)]))}const y=i(n,[["render",l]]);export{r as __pageData,y as default};
